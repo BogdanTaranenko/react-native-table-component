@@ -1,3 +1,6 @@
+<p>
+This project was forked from <a href="https://github.com/Gil2015/react-native-table-component">Gil2015/react-native-table-component</a>
+</p>
 <p align="center">
   <img src="https://github.com/Gil2015/tools_file/blob/master/img/react-native-table-component/react-native-table-component-logo.png?raw=true" width="170" />
 </p>
